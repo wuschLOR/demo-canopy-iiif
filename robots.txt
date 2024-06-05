@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://wuschlor.github.io/demo-canopy-iiif
+
+# Sitemaps
+Sitemap: https://wuschlor.github.io/demo-canopy-iiif/sitemap.xml
